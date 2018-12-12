@@ -7,5 +7,6 @@
   body {
       position: fixed;
       background: rgb(80, 168, 180);
+      display: block;
   }
   
